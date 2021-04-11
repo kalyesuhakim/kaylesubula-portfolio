@@ -1,6 +1,7 @@
 import React,{ useState} from 'react'
 import projectData from '../data/projects'
 const Projects = () => {
+    //eslint-disable-next-line
     const [items, setitems] = useState(projectData);
     if(!items){
         return(
