@@ -1,5 +1,12 @@
 const projectData = [
     {
+        id: "00121",
+        name: "website",
+        image: "./assets/portfolio-2.png",
+        path: "https://kalyesubulahakim.netlify.app ",
+        description: ["REACT","TAILWIND","NETLIFY","GITHUB","HOOKS"]
+    },
+    {
         id: "001",
         name: "Portfolio website",
         image: "./assets/portifolioblack.png",
