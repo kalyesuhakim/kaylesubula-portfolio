@@ -1,6 +1,27 @@
 const projectData = [
     {
         id: "00121",
+        name: "Minesweeper",
+        image: "./assets/mine.png",
+        path: "https://minesweeper-kim.netlify.app",
+        description: ["JAVASCRIPT","HTML","CSS"]
+    },
+    {
+        id: "00122",
+        name: "Face detection and expressions",
+        image: "./assets/face.png",
+        path: "https://face-expression-detector-kim.netlify.app",
+        description: ["JAVASCRIPT","HTML","FACEAPIJS"]
+    },
+    {
+        id: "00123",
+        name: "Speed typing",
+        image: "./assets/word.png",
+        path: "https://speed-typing-kim.netlify.app ",
+        description: ["JAVASCRIPT","HTML","CSS","ARRAYS"]
+    },
+    {
+        id: "00124",
         name: "website",
         image: "./assets/portfolio-2.png",
         path: "https://kalyesubulahakim.netlify.app ",
